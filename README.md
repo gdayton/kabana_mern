@@ -1,5 +1,7 @@
 # Kanban Board
 
+![alt text](https://i.ibb.co/K5JdWrW/Screen-Shot-2020-08-23-at-6-46-10-PM.png)
+
 ## Getting Started 
 
 To Run **Kanban Board** locally:
