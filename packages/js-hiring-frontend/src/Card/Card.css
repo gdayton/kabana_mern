@@ -1,0 +1,32 @@
+.card {
+    padding: 10px;
+    margin: 10px;
+}
+
+.card .story_points {
+    float: right; 
+}
+
+.card .card-content {
+    cursor: pointer;
+}
+
+.card .delete-action {
+    float: right;
+}
+
+.card-ready {
+    border: 2px solid #d4ebf2;
+}
+
+.card-in_progress {
+    border: 2px solid #f2ead4;
+}
+
+.card-qa {
+    border: 2px solid #d4dcf2;
+}
+
+.card-complete {
+    border: 2px solid #d4f2ea;
+}

@@ -1,0 +1,18 @@
+.column {
+  float: left;
+  width: 25%;
+}
+
+.column .new {
+  text-align: center;
+}
+
+.column h3 {
+  text-align: center;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
